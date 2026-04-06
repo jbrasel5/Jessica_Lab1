@@ -10,6 +10,7 @@ int main()
     cout << "Hello from Jessica! This is my first Git commit.\n";
     cout << "Git makes collaboration easy!" << endl;
     cout << "Changes made by Harvey Bui!" << endl;
+    cout << "Lab 1 completed on 4/6/2026!" << endl;
 
 }
 
