@@ -1,6 +1,6 @@
 // Edited directly on GitHub
 // Jessica_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+// Reviewed and updated by Harvey Bui on 2024-06-01
 
 #include <iostream>
 using namespace std;
