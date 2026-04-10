@@ -14,16 +14,28 @@ int main()
     cout << "Feature by Jessica: Branching is awesome!" << endl;
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
-    // Feature by Jessica: Pass/Fail Checker
-
-    double score;
-    cout << "Enter your score: ";
-    cin >> score;
-    if (score >= 60) {
-        cout << "Congratulations! You passed!" << endl;
+    // Feature by Harvey and Jessica: Grade calculator with letter grades
+    double averageGrade;
+    char letterGrade;
+    if (averageGrade >= 90) {
+        letterGrade = 'A';
+        cout << "Pass";
+    }
+    else if (averageGrade >= 80) {
+        letterGrade = 'B';
+        cout << "Pass";
+    }
+    else if (averageGrade >= 70) {
+        letterGrade = 'C';
+        cout << "Pass";
+    }
+    else if (averageGrade >= 60) {
+        letterGrade = 'D';
+        cout << "Pass";
     }
     else {
-        cout << "Sorry, you failed. Better luck next time!" << endl;
+        letterGrade = 'F';
+        cout << "Fail";
     }
 }
 
