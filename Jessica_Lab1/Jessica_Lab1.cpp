@@ -13,6 +13,7 @@ int main()
     cout << "Lab 1 completed on 4/6/2026!" << endl;
     cout << "Feature by Jessica: Branching is awesome!" << endl;
 
+
     // Feature by Harvey and Jessica: Grade calculator with letter grades
     double gradeA, gradeB, gradeC;
     cout << "Enter three grades: ";
