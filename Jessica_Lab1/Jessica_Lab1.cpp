@@ -15,7 +15,7 @@ int main()
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
 
-    // Feature by Harvey and Jessica: Grade calculator with letter grades
+    // Feature by Harvey: Grade calculator
     double gradeA, gradeB, gradeC;
     cout << "Enter three grades: ";
     cin >> gradeA >> gradeB >> gradeC;
