@@ -16,10 +16,4 @@ This is a simple C++ console application created for Git Lab 1.
 
 ## Changes Made by Jessica: Added a feature greeting
 
-## Team Members
-- Jessica Brasel - Feature: student info dispaly
-
-## Adding pass-fail-check feature branch
-- Jessica - Parameters: score between 0 - 100
-- Return Value (if >= 60): "Pass"
-- Return Value (if >= 60): "Fail"
+## Changes Made by Harvey: Added a grade calculation feature
