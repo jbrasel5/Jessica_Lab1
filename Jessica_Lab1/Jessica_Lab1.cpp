@@ -15,6 +15,12 @@ int main()
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
 
+    // Feature by Harvey: Grade calculator
+    double gradeA, gradeB, gradeC;
+    cout << "Enter three grades: ";
+    cin >> gradeA >> gradeB >> gradeC;
+    double averageGrade = (gradeA + gradeB + gradeC) / 3;
+  
     // Feature by Harvey and Jessica: Grade calculator with letter grades
     char letterGrade;
     if (averageGrade >= 90) {
