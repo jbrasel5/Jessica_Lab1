@@ -12,6 +12,7 @@ int main()
     cout << "Changes made by Harvey Bui!" << endl;
     cout << "Lab 1 completed on 4/6/2026!" << endl;
     cout << "Feature by Jessica: Branching is awesome!" << endl;
+    cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
     // Feature by Harvey and Jessica: Grade calculator with letter grades
     double gradeA, gradeB, gradeC;
