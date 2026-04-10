@@ -15,7 +15,6 @@ int main()
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
     // Feature by Harvey and Jessica: Grade calculator with letter grades
-    double averageGrade;
     char letterGrade;
     if (averageGrade >= 90) {
         letterGrade = 'A';
