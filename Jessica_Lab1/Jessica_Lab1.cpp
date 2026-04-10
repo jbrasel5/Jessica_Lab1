@@ -14,6 +14,17 @@ int main()
     cout << "Feature by Jessica: Branching is awesome!" << endl;
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
+    // Feature by Jessica: Pass/Fail Checker
+
+    double score;
+    cout << "Enter your score: ";
+    cin >> score;
+    if (score >= 60) {
+        cout << "Congratulations! You passed!" << endl;
+    }
+    else {
+        cout << "Sorry, you failed. Better luck next time!" << endl;
+    }
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu

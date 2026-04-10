@@ -12,7 +12,14 @@ This is a simple C++ console application created for Git Lab 1.
 - Jessica Brasel
 - Harvey Bui
 
+## Jessica Brasel - Lab 2
+
 ## Changes Made by Jessica: Added a feature greeting
 
 ## Team Members
 - Jessica Brasel - Feature: student info dispaly
+
+## Adding pass-fail-check feature branch
+- Jessica - Parameters: score >= 60
+- Return Value (if >= 60): "Congratulations! You passed!"
+- Return Value (if < 60): "Sorry, you failed. Better luck next time!"
