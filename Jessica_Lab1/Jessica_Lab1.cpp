@@ -14,6 +14,7 @@ int main()
     cout << "Feature by Jessica: Branching is awesome!" << endl;
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
+
     // Feature by Harvey and Jessica: Grade calculator with letter grades
     char letterGrade;
     if (averageGrade >= 90) {
