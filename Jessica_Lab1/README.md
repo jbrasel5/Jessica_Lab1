@@ -13,3 +13,5 @@ This is a simple C++ console application created for Git Lab 1.
 - Harvey Bui
 
 ## Changes Made by Jessica: Added a feature greeting
+
+## Changes Made by Harvey: Added a grade calculation feature
