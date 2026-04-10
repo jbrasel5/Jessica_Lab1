@@ -15,28 +15,11 @@ int main()
     cout << "Student ID: 1234 | Name: Jessica Brasel" << endl;
 
     // Feature by Harvey and Jessica: Grade calculator with letter grades
-    double averageGrade;
-    char letterGrade;
-    if (averageGrade >= 90) {
-        letterGrade = 'A';
-        cout << "Pass";
-    }
-    else if (averageGrade >= 80) {
-        letterGrade = 'B';
-        cout << "Pass";
-    }
-    else if (averageGrade >= 70) {
-        letterGrade = 'C';
-        cout << "Pass";
-    }
-    else if (averageGrade >= 60) {
-        letterGrade = 'D';
-        cout << "Pass";
-    }
-    else {
-        letterGrade = 'F';
-        cout << "Fail";
-    }
+    double gradeA, gradeB, gradeC;
+    cout << "Enter three grades: ";
+    cin >> gradeA >> gradeB >> gradeC;
+    double averageGrade = (gradeA + gradeB + gradeC) / 3;
+  
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
